@@ -1,0 +1,12 @@
+Name: Dell Inspiron...
+Price: $1124.2
+Description: Dell Inspiron 17 2in1 (7779) Silver, 17.3" FHD Touch, Core i5-7200U, 12GB, 1TB, GeForce GT940MX 2GB, Windows 10 Home
+
+Name: MSI GP62M 7RDX...
+Price: $1149
+Description: MSI GP62M 7RDX Leopard, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
+
+Name: Asus VivoBook...
+Price: $399
+Description: Asus VivoBook Max X541NA-GQ041 Black Chocolate, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 500GB, Windows 10 Home
+
